@@ -1,6 +1,6 @@
 # TeslaCANInterpreter
 
-This Python script is designed to read and interpret CAN messages from Tesla vehicles, providing insights into various vehicle parameters like charge level, climate control status, and more.
+This Python script is designed to read and interpret CAN messages from Tesla and other vehicles, providing insights into various vehicle parameters like charge level, climate control status, and more.
 
 ## Prerequisites
 Before running this script, ensure you have the following prerequisites met:
